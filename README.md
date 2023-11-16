@@ -11,9 +11,9 @@ Rejeição à participação na disputa presidencial no Brasil - Paper in progre
 
 Obs:
 
-Para replicação> arquivos: (.R)
+Para replicação dos testes do trabalho -> pasta scripts
 
-Para análises complementares - 'Apendice online.PDF'
+Para análises complementares -> 'Apendice online.PDF'
 
 Mais informações entrar em contato via e-mail: cienciapoliticaporgregorio@gmail.com
 
