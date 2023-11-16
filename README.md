@@ -11,7 +11,7 @@ Rejeição à participação na disputa presidencial no Brasil - Paper in progre
 
 Obs:
 
-Para replicação> (.R)
+Para replicação> arquivos: (.R)
 
 Para análises complementares - 'Apendice online.PDF'
 
