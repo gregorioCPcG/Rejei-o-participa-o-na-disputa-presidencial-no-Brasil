@@ -572,7 +572,7 @@ predictions(ModeloBfull, newdata = datagrid(PosturaAntiDemoc = 1))
 plot_cap(ModeloAfull, condition = "evangelico", conf_level = .9)
 plot_cap(ModeloBfull, condition = "evangelico", conf_level = .9)
 
-predictions(mod, newdata = datagrid(am = 0, wt = seq(2, 3, .2)))
+
 predictions(ModeloAfull, newdata = datagrid(PosturaAntiDemoc = 1,
                                             evangelico = T,
                                             catolico = F))
